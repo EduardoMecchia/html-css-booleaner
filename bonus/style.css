@@ -1,14 +1,20 @@
+*{
+    color: rgba(163, 17, 17, 0.5);
+    background-color: lightgrey;
+}
+
 body{
-    width: 1100px;
+    width: 700px;
     margin-left: 20px;
     margin-right: 10px;
 }
 
 header{
-    background-color: #4da0ff;
+    background-color: rgba(255,0,0,0.5);
     background-image: url("../img/pattern.png");
     background-size: 400px;
     height: 100px;
+    width: 1100px;
 }
 
 header > img{
@@ -16,6 +22,7 @@ header > img{
     width: 200px;
     padding-top: 15px;
     padding-left: 5px;
+    background-color:transparent;
 }
 
 #title{
@@ -87,6 +94,7 @@ table{
     color: white;
     font-size: 150%;
     padding: 15px;
+    background-color: transparent;
 }
 
 .video_thumbnail{

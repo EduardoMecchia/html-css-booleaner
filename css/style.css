@@ -16,6 +16,7 @@ header > img{
     width: 200px;
     padding-top: 15px;
     padding-left: 5px;
+    background-color: transparent;
 }
 
 #title{
@@ -87,6 +88,7 @@ table{
     color: white;
     font-size: 150%;
     padding: 15px;
+    background-color: transparent;
 }
 
 .video_thumbnail{
