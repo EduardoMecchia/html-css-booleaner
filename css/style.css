@@ -34,3 +34,19 @@ header > img{
     color: #2eaee7;
 }
 
+#photo_subtitle{
+    margin-bottom: 30px;
+}
+
+.article_body{
+    font-size: 120%;
+}
+
+.important{
+    background-color: yellow;
+}
+
+#list{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
