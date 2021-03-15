@@ -54,3 +54,12 @@ header > img{
 table{
     margin-bottom: 30px;
 }
+
+#interest{
+    margin-top: 30px;
+    color: grey;
+    font-size: 140%;
+}
+#interest, .other_video{
+    font-weight: bold;
+}
